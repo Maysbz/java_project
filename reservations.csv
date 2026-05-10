@@ -1,0 +1,4 @@
+ID,SalleID,SalleNom,Role,Nom,Debut,Fin,Evenement
+3,S2,Amphi A,Professeur,kkk,1/7/2027,2/7/2027,event2
+4,S1,Salle Informatique 101,Professeur,ggg,2027-01-02,2027-01-03,event3
+2,S1,Salle Informatique 101,Etudiant,eeee,2026-05-10,2026-05-11,event

@@ -1,0 +1,7 @@
+// Interface generique  Mays
+import java.util.List;
+
+public interface Sauvegardable<T> {
+    void sauvegarder(List<T> elements, String chemin) throws Exception;
+    List<T> charger(String chemin) throws Exception;
+}
